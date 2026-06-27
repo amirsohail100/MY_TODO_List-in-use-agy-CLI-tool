@@ -51,6 +51,6 @@ Follow these precise steps to deploy and explore the application smoothly on you
 ### 1. Clone the Target Endpoint
 
 ```bash
-git clone [https://github.com/amirsohail100/your-todo-repo-name.git](https://github.com/amirsohail100/your-todo-repo-name.git)
-cd your-todo-repo-name
+git clone [https://github.com/amirsohail100/MY_TODO_List-in-use-agy-CLI-tool.git](https://github.com/amirsohail100/MY_TODO_List-in-use-agy-CLI-tool.git)
+cd MY_TODO_List-in-use-agy-CLI-tool
 ```
